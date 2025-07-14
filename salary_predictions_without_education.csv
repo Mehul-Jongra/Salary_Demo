@@ -1,0 +1,76 @@
+Age,Gender,Job Title,Years of Experience,Predicted Salary,Actual Salary
+48.0,Male,Director of Marketing,21.0,180245.14642672497,180000.0
+39.0,Female,Marketing Specialist,10.0,82349.09289534214,65000.0
+44.0,Male,Operations Manager,16.0,104233.29064098706,125000.0
+34.0,Female,Senior Financial Advisor,6.0,100000.00000000074,80000.0
+43.0,Male,Senior Engineer,17.0,132794.797333512,140000.0
+44.0,Female,Senior HR Manager,18.0,138572.1619084393,160000.0
+50.0,Female,Operations Manager,22.0,127679.5660373892,160000.0
+35.0,Male,Senior Product Manager,10.0,115174.44363296013,120000.0
+31.0,Male,Junior Operations Analyst,3.0,42999.60612387609,50000.0
+37.0,Female,Senior HR Generalist,9.0,76541.88239296606,95000.0
+42.0,Female,Senior Marketing Manager,13.0,124504.31751868459,140000.0
+49.0,Male,Sales Executive,21.0,123901.63050422673,160000.0
+26.0,Male,Junior Customer Support Specialist,2.0,41667.768905003395,35000.0
+36.0,Male,Sales Manager,9.0,86050.90679049867,95000.0
+44.0,Male,Senior IT Support Specialist,14.0,100113.03975514749,110000.0
+31.0,Male,Junior Operations Analyst,3.0,42999.60612387609,50000.0
+32.0,Male,Software Engineer,5.0,59089.40041213164,90000.0
+27.0,Female,Junior Research Scientist,1.5,42355.51627378618,50000.0
+34.0,Male,Senior Operations Coordinator,7.0,96180.43714491084,90000.0
+35.0,Male,Product Marketing Manager,8.0,70890.40433007544,95000.0
+38.0,Male,Senior Scientist,10.0,117939.87455708065,110000.0
+37.0,Male,Senior Business Analyst,9.0,112012.83711292468,105000.0
+45.0,Male,Research Director,16.0,106106.83317071521,190000.0
+33.0,Female,Junior Operations Analyst,5.0,50711.20962968649,70000.0
+34.0,Female,Senior Financial Advisor,6.0,100000.00000000074,100000.0
+30.0,Female,Junior Marketing Manager,4.0,59286.0809542192,50000.0
+46.0,Male,Senior Data Scientist,18.0,163923.45882634912,160000.0
+28.0,Male,Junior Business Analyst,2.0,42490.92408813846,40000.0
+40.0,Female,Senior Human Resources Specialist,13.0,90403.01175382965,120000.0
+43.0,Male,Director of Operations,19.0,158877.80225600884,170000.0
+28.0,Female,Social Media Specialist,3.0,47319.24696789401,45000.0
+41.0,Female,Senior Marketing Analyst,14.0,109200.97776411842,100000.0
+30.0,Male,Network Engineer,3.0,51222.06446683577,60000.0
+44.0,Female,Senior Business Analyst,15.0,137332.65503905498,150000.0
+38.0,Female,Senior Business Analyst,10.0,115790.77264608715,110000.0
+23.0,Female,Junior Marketing Analyst,0.5,31864.44944709094,35000.0
+47.0,Male,Senior Data Scientist,21.0,171977.37768483663,180000.0
+30.0,Male,IT Support,2.0,49161.939023915984,50000.0
+43.0,Female,Senior Product Designer,18.0,153057.80544587865,140000.0
+31.0,Male,Junior Accountant,4.0,52018.026255939156,50000.0
+30.0,Female,Junior Marketing Coordinator,2.0,46932.94969089984,40000.0
+37.0,Male,Senior Marketing Analyst,9.0,91561.91287009236,100000.0
+50.0,Male,CEO,25.0,134015.67480563401,250000.0
+48.0,Male,Director of Marketing,19.0,176124.8955408854,170000.0
+28.0,Male,Customer Success Manager,2.0,45414.85396445969,40000.0
+44.0,Female,Senior Scientist,16.0,141386.1499534828,140000.0
+36.0,Male,Principal Scientist,11.0,78944.32318856295,120000.0
+27.0,Female,UX Researcher,2.0,43385.57899524608,65000.0
+29.0,Male,Marketing Analyst,2.0,47939.8745570814,55000.0
+28.0,Female,Copywriter,2.0,45259.12152497422,40000.0
+45.0,Male,Director of Engineering,19.0,174192.7894976237,180000.0
+34.0,Male,Senior Business Analyst,8.0,104332.08408082045,90000.0
+44.0,Male,Senior Software Engineer,13.0,129463.91904577984,130000.0
+40.0,Female,Senior Sales Representative,12.0,91873.54252972854,100000.0
+38.0,Male,Senior IT Consultant,9.0,110000.00000000058,110000.0
+40.0,Male,Senior Financial Analyst,12.0,118600.81349381457,130000.0
+52.0,Female,Senior Marketing Manager,25.0,167961.24813100352,170000.0
+36.0,Female,Sales Associate,7.0,61355.29947977695,60000.0
+48.0,Male,Director of Marketing,21.0,180245.14642672497,180000.0
+32.0,Male,Senior Software Engineer,6.0,92560.53058860356,100000.0
+40.0,Female,Senior Training Specialist,12.0,88342.88631090986,100000.0
+44.0,Female,Senior Product Designer,15.0,148750.97164684744,150000.0
+48.0,Female,Human Resources Director,20.0,119812.23009209333,180000.0
+32.0,Male,Account Manager,5.0,59089.40041213164,75000.0
+31.0,Female,Junior Social Media Specialist,3.0,52939.87455707845,45000.0
+28.0,Male,Technical Support Specialist,2.0,45414.85396445969,40000.0
+30.0,Male,Junior Marketing Specialist,3.0,54305.31917864816,45000.0
+38.0,Female,Senior Business Analyst,10.0,115790.77264608715,110000.0
+30.0,Female,Junior Marketing Coordinator,2.0,46932.94969089984,40000.0
+25.0,Male,Sales Representative,0.0,35673.975489435674,30000.0
+33.0,Male,Business Analyst,7.0,82402.44079559775,75000.0
+41.0,Female,Senior Marketing Coordinator,11.0,108596.68022792923,90000.0
+33.0,Male,Junior Business Analyst,4.0,55978.88762261877,60000.0
+45.0,Female,Senior HR Manager,14.0,132205.2026664883,140000.0
+36.0,Male,Senior Business Development Manager,8.0,107253.16607610673,110000.0
